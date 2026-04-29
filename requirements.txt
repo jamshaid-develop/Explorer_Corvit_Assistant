@@ -1,0 +1,31 @@
+# ============================================================
+# Explorer Corvit Assistant — Requirements
+# Python 3.12
+# ============================================================
+
+# Core
+# Core
+groq
+python-dotenv
+streamlit
+
+# RAG / Embeddings
+chromadb
+sentence-transformers
+langchain
+langchain-community
+langchain-groq
+
+# Document Loaders
+pypdf
+python-docx
+
+# Database / Memory
+tinydb
+
+# Logging & Utilities
+loguru
+tenacity
+
+# Optional UI
+streamlit-chat
