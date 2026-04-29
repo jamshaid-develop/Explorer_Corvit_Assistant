@@ -2,10 +2,10 @@ groq
 python-dotenv
 streamlit
 chromadb==0.4.24
-sentence-transformers
 langchain
 langchain-community
 langchain-groq
+langchain-text-splitters
 pypdf
 python-docx
 loguru
